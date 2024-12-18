@@ -1,0 +1,10 @@
+.post-div {
+  margin-left: 260px;
+  position: absolute;
+}
+
+.post-div th {
+  padding: 20px 10px !important;
+  width: 20% !important;
+}
+

@@ -1,0 +1,16 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.contact-div {
+    padding: 80px 0;
+}
+
+.contact-heading {
+    padding-bottom: 40px;
+}
+
+.contact-heading h1 {
+    margin-bottom: 0px !important;
+    line-height: 0.5;
+}
